@@ -2,7 +2,6 @@
 
 __author__ = "Saurav Dahal"
 
-import  ast
 
 def CommaCode(someList):
     newString = ''
